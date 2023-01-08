@@ -1,3 +1,4 @@
+Benchmark           Mode  Cnt     Score    Error  Units
 XMarkBench.xmark01  avgt   10     2.393 ±  0.013  ms/op
 XMarkBench.xmark02  avgt   10   117.490 ± 19.278  ms/op
 XMarkBench.xmark03  avgt   10   321.432 ±  4.190  ms/op
@@ -18,3 +19,26 @@ XMarkBench.xmark17  avgt   10   188.543 ±  4.522  ms/op
 XMarkBench.xmark18  avgt   10    62.138 ±  1.541  ms/op
 XMarkBench.xmark19  avgt   10   327.456 ±  3.964  ms/op
 XMarkBench.xmark20  avgt   10   502.042 ±  8.015  ms/op
+
+new (January 2023):
+Benchmark           Mode  Cnt     Score    Error  Units
+XMarkBench.xmark01  avgt    5     6.003 ±  0.224  ms/op
+XMarkBench.xmark02  avgt    5    82.650 ±  3.141  ms/op
+XMarkBench.xmark03  avgt    5   218.449 ±  6.398  ms/op
+XMarkBench.xmark04  avgt    5   278.250 ±  8.235  ms/op
+XMarkBench.xmark05  avgt    5    60.423 ±  2.545  ms/op
+XMarkBench.xmark06  avgt    5     7.708 ±  0.339  ms/op
+XMarkBench.xmark07  avgt    5    33.262 ±  0.540  ms/op
+XMarkBench.xmark08  avgt    5   125.892 ±  7.086  ms/op
+XMarkBench.xmark09  avgt    5   237.470 ±  5.875  ms/op
+XMarkBench.xmark10  avgt    5  1872.763 ± 39.492  ms/op
+XMarkBench.xmark11  avgt    5   219.597 ±  9.528  ms/op
+XMarkBench.xmark12  avgt    5   180.873 ± 11.181  ms/op
+XMarkBench.xmark13  avgt    5    20.137 ±  0.369  ms/op
+XMarkBench.xmark14  avgt    5   293.444 ±  7.994  ms/op
+XMarkBench.xmark15  avgt    5   186.072 ± 14.072  ms/op
+XMarkBench.xmark16  avgt    5   177.748 ± 12.567  ms/op
+XMarkBench.xmark17  avgt    5   132.196 ±  4.740  ms/op
+XMarkBench.xmark18  avgt    5    48.100 ±  1.879  ms/op
+XMarkBench.xmark19  avgt    5   439.187 ±  7.884  ms/op
+XMarkBench.xmark20  avgt    5   359.220 ±  8.021  ms/op
